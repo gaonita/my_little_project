@@ -1,0 +1,743 @@
+[
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2016",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9903122"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2015",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9799186"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2014",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9696110"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2013",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9600379"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2012",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9519374"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2011",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9449213"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2010",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9378126"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2009",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9298515"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2008",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9219637"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2007",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9148092"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2006",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9080505"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2005",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "9029572"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2004",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8993531"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2003",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8958229"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2002",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8924958"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2001",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8895960"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "2000",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8872109"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1999",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8857874"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1998",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8850974"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1997",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8846062"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1996",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8840998"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1995",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8826939"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1994",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8780745"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1993",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8718561"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1992",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8668067"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1991",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8617375"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1990",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8558835"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1989",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8492964"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1988",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8436489"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1987",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8397804"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1986",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8369829"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1985",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8350386"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1984",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8336605"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1983",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8329033"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1982",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8325263"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1981",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8320503"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1980",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8310531"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1979",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8293678"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1978",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8275599"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1977",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8251540"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1976",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8222286"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1975",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8192437"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1974",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8159955"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1973",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8136312"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1972",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8122300"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1971",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8098334"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1970",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "8042801"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1969",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "7968072"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1968",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "7912273"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1967",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "7867931"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1966",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "7807797"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1965",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "7733853"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1964",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "7661354"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1963",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "7604328"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1962",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "7561588"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1961",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "7519998"
+  },
+  {
+    "country": {
+      "id": "SE",
+      "value": "Sweden"
+    },
+    "date": "1960",
+    "decimal": "0",
+    "indicator": {
+      "id": "SP.POP.TOTL",
+      "value": "Population, total"
+    },
+    "value": "7484656"
+  }
+]
